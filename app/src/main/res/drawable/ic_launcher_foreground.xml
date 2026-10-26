@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer film frame in safe zone -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M30,28 L78,28 C80.2,28 82,29.8 82,32 L82,48 L76,54 L82,60 L82,76 C82,78.2 80.2,80 78,80 L30,80 C27.8,80 26,78.2 26,76 L26,60 L32,54 L26,48 L26,32 C26,29.8 27.8,28 30,28 Z M34,34 L34,44 L40,44 L40,34 Z M68,34 L68,44 L74,44 L74,34 Z M34,64 L34,74 L40,74 L40,64 Z M68,64 L68,74 L74,74 L74,64 Z" />
+    <!-- Sliced play/skip chevron center -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M46,38 L62,54 L46,70 L52,70 L68,54 L52,38 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,42 L52,54 L40,66 L44,66 L56,54 L44,42 Z" />
+</vector>

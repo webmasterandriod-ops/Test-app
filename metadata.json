@@ -1,0 +1,6 @@
+{
+  "name": "SkipFrame",
+  "description": "Experimental on-device video processor with silence removal, frame skipping, loudness-weighted surprise lottery, and live lab playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
